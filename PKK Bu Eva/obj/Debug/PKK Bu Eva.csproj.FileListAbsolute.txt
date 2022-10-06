@@ -1,0 +1,53 @@
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\PKK Bu Eva.exe.config
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\PKK Bu Eva.exe
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\PKK Bu Eva.pdb
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK Bu Eva.csproj.AssemblyReference.cache
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK Bu Eva.csproj.SuggestedBindingRedirects.cache
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK_Bu_Eva.Form1.resources
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK_Bu_Eva.Properties.Resources.resources
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK Bu Eva.csproj.GenerateResource.cache
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK Bu Eva.csproj.CoreCompileInputs.cache
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK Bu Eva.exe
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK Bu Eva.pdb
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK_Bu_Eva.Employee.resources
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK Bu Eva.csproj.CopyComplete
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\RestSharp.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Buffers.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.CodeDom.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Data.Odbc.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Data.OleDb.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Data.SqlClient.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Drawing.Common.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.IO.Packaging.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.IO.Ports.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Memory.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Security.AccessControl.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Security.Permissions.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK Bu Eva.csproj.Fody.CopyLocal.cache
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK_Bu_Eva.Customers.resources
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK_Bu_Eva.Services.resources
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK_Bu_Eva.Wash.resources
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK_Bu_Eva.Splashs.resources
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK_Bu_Eva.Login.resources
+C:\Users\SMKN 26 JAKARTA\source\repos\PKK Bu Eva\PKK Bu Eva\obj\Debug\PKK_Bu_Eva.AdminLogin.resources
